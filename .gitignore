@@ -1,0 +1,8 @@
+.DS_Store
+myenv/
+wandb/
+__pycache__/
+logs/
+logs.db/
+final/
+embeddings/
